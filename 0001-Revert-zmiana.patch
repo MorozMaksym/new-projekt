@@ -1,0 +1,21 @@
+From 6da739008f74299411ff4913ff7f8eab5c22d4bf Mon Sep 17 00:00:00 2001
+From: Maksym Moroz <maksym.moroz@microsoft.wsei.edu.pl>
+Date: Thu, 20 Oct 2022 16:08:14 +0200
+Subject: [PATCH] Revert "zmiana"
+
+This reverts commit a655bbc3e76d34211b16071c35337b702e9dc786.
+---
+ README.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 4c9adbb..acc9528 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,2 @@
+ # test-projeck
+ # test-project
+-## test correct?
+-- 
+2.37.2.windows.2
+
